@@ -1,6 +1,5 @@
 //
-//  SenTestCase+Async.h
-//  Similify
+//  XCTest+Async.h
 //
 //  Created by Saül Baró on 10/29/13.
 //  Copyright (c) 2013 Wide Eyes Solutions SL. All rights reserved.
