@@ -5,7 +5,7 @@ This category expands the XCTest to add some macros to help testing asynchronous
 ##Installation and usage
 
 1. Add [`XCTest+Async.h`](https://github.com/mobilejazz/XCTest-Async/blob/master/XCTest%2BAsync.h) to your project.
-2. Add this line to your SenTestCase subclass
+2. Add this line to your XCTest subclass
 
     ```objective-c
     #import "XCTest+Async.h" 
